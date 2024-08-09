@@ -9,7 +9,8 @@ export default function Practice() {
             <Badge badgeContent={4} color="primary">
                 <MailIcon color="action" />
             </Badge>
-            
+            <Button variant="contained" color="primary">Hello one</Button>
+            <Button variant="contained" color="primary">Hello two</Button>
         </>
     );
 }
